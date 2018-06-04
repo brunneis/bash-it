@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Initialize Bash It
 
+export BASH_IT_THEME="doubletime"
+
 # Only set $BASH_IT if it's not already set
 if [ -z "$BASH_IT" ];
 then
