@@ -1,4 +1,6 @@
 #!/bin/bash
 mkdir ../.bash-it
 mv $(ls -A) ../.bash-it
-../.bash-it/step2.sh
+cd ../.bash-it
+rmdir ../bash-it
+./install.sh

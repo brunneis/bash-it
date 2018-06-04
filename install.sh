@@ -186,3 +186,5 @@ echo "  bash-it show plugins"
 echo ""
 echo "To avoid issues and to keep your shell lean, please enable only features you really want to use."
 echo "Enabling everything can lead to issues."
+
+cd
